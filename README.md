@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU3_rushB.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Juan Nepomuceno Lucena López     :octocat:     
 
 ----- 
 
@@ -30,7 +29,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> La aplicación seleccionada es meetup, se utiliza para ofertar y apuntarse a actividades de ocio donde conocer gente y hacer cosas nuevas.
+Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que realiza basadas en tus gustos o localización y el gran número de categorías que tiene para buscar algo que te resulte interesante. Para cada evento te muestra una pequeña descripción, otros eventos parecidos, los miembros ya apuntados, los organizadores, algunas fotos y conversaciones al respecto. Otra característica importante es la posibilidad de crear tus propios grupos para que la gente se una a tus planes.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
