@@ -50,7 +50,7 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>> - Enlace al documento:  (Usability-review-template-final.pdf) 
+>>> - Enlace al documento:  https://github.com/juanzip/DIU20/blob/master/Usability-review-template-final.pdf 
 >>> - Valoración final (numérica): 78
 >>> - Comentario sobre la valoración: En general la aplicación cumple su función sobradamente y no tiene ningún problema grave destacable quitando que cuando no tienes cuenta no hay un buscador disponible. 
 
