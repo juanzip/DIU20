@@ -35,7 +35,8 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Son dos personas jóvenes pero sus propósitos son muy diferentes, Antonio busca algo esporádico para un solo día mientras que Natalia quiere algo duradero para consolidar un grupo de amigos que compartan sus aficiones.
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
