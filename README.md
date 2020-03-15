@@ -44,7 +44,9 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Son dos experiencias que podrían ser muy comunes pero tienen motivaciones diferentes. Lo llamativo es que cada uno llega a la página con una recomendación totalmente diferente y consigue su propósito. 
+![Journey Antonio](img/journeyAntonio.png)
+![Journey Natalia](img/journeyNatalia.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
