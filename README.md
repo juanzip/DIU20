@@ -75,7 +75,7 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![SiteMap](img/sitemap.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
