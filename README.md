@@ -83,10 +83,7 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Labelling](img/labeling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
