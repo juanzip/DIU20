@@ -62,7 +62,7 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ----
 
 
-![Tabla feedback](img/Feedback_Capture _Grid_tabla.png)
+![Tabla feedback](img/Feedback_Capture _Grid_tabla.PNG)
 
   
   
