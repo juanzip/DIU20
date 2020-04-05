@@ -75,14 +75,12 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-![SiteMap](img/sitemap_tabla.png)
-
+![Task](img/sitemap_tabla.png)
+![SiteMap](img/sitemap_diagrama.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
