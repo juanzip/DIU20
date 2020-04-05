@@ -90,8 +90,8 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 -----
 
 >>>Leyenda de los numeros en los bocetos:
->>>-1: Grupos
->>>-2: Buscador
+>>>-1: Grupos \n
+>>>-2: Buscador \n
 >>>-3: Menu Principal
 >>>-4: Calendario
 >>>-5: Ayuda
