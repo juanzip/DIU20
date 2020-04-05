@@ -62,12 +62,13 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+ - Visulamente uniforme y agradable                          |
+ - Sugerencias acertadas en base a gustos y localizacion     |
+ - Calendario muy practico                                   |
+| ---------------------------------------------------------- | -------
+  Preguntas                                                  | Nuevas ideas
   
   
   
