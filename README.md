@@ -64,11 +64,6 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 
 
 
- - Visulamente uniforme y agradable                          |
- - Sugerencias acertadas en base a gustos y localizacion     |
- - Calendario muy practico                                   |
-| ---------------------------------------------------------- | -------
-  Preguntas                                                  | Nuevas ideas
   
   
   
