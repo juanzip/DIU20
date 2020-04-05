@@ -67,10 +67,7 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
   
   
   
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>>La propuesta de valor que he pensado es para fidelizar a los usuarios de la aplicación con un sistema de niveles y recompensas según las actividades que realicen, como apuntarse a actividades o ser administradores de un grupo.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
@@ -114,6 +111,10 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 
 >>> Boceto del buscador cuando no encuentra resultados
 ![Labelling](img/buscador_noresultado.png)
+
+>>>La opción de grupos te lleva a una lista de todos los grupos a los que perteneces, en este caso he realizado el boceto de un grupo concreto puesto que pienso que aporta más.
+
+>>>En el buscador se puede dar el caso de no encontrar el grupo que se desea y en ese caso te da la opción de sugerir la creación de ese grupo. Lo propones pero no lo creas tú.
 
 
 ## Paso 3. Make (Prototyping) 
