@@ -61,7 +61,7 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-![Tabla feedback](img/Feedback_Capture _Grid_tabla.png)
+![Tabla feedback](img/grid_tabla.png)
 
 
   
