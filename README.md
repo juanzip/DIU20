@@ -90,12 +90,12 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 -----
 
 >>>Leyenda de los numeros en los bocetos:
--1: Grupos
--2: Buscador
--3: Menu Principal
--4: Calendario
--5: Ayuda
--6: Perfil
+>>>-1: Grupos
+>>>-2: Buscador
+>>>-3: Menu Principal
+>>>-4: Calendario
+>>>-5: Ayuda
+>>>-6: Perfil
 
 >>> Boceto de la pagina princial
 ![Labelling](img/pagina_principal.png)
