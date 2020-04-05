@@ -89,8 +89,18 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+>>> Boceto de la pagina princial
+![Labelling](img/pagina_principal.png)
+>>> Boceto del perfil de usuario
+![Labelling](img/perfil.png)
+>>> Boceto del calendario
+![Labelling](img/calendario.png)
+>>> Boceto de la pagina de uno de los grupos
+![Labelling](img/grupos.png)
+>>> Boceto del buscador
+![Labelling](img/buscador.png)
+>>> Boceto del buscador cuando no encuentra resultados
+![Labelling](img/buscador_noresultado.png)
 
 ## Paso 3. Make (Prototyping) 
 
