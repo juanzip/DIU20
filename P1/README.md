@@ -14,7 +14,7 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 ![Persona Natalia](../img/personaNatalia.png)
 
 
-![Método UX](../mg/JourneyMap.png) 1.c User Journey Map
+![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
