@@ -1,6 +1,6 @@
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
 >>> La aplicación seleccionada es meetup, se utiliza para ofertar y apuntarse a actividades de ocio donde conocer gente y hacer cosas nuevas.
