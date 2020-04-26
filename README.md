@@ -81,7 +81,7 @@ Para dejar claro cual es el significado de todos los terminos usados en el sitem
 
  ## Wireframes
 
-Por ultimo 
+Por último hemos realizado wireframes de las pantallas principales que hay que desarrollar para testearlos antes de seguir a un estado mas avanzado. Los hemos hecho con la herramienta draw.io de forma sencilla para tener una idea general. 
 
 >>>Leyenda de los numeros en los bocetos:  
 
