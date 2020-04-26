@@ -92,7 +92,7 @@ Por ultimo
 >>>-6: Perfil  
 
 >>> Boceto de la pagina princial
-![Labelling](img/pagina_principal.png width="200" height="400")
+<img src="img/pagina_principal.png" width="40%">
 
 >>> Boceto del perfil de usuario
 ![Labelling](img/perfil.png)
