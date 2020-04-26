@@ -92,22 +92,22 @@ Por ultimo
 >>>-5: Ayuda  
 >>>-6: Perfil  
 
-  Boceto de la pagina princial
+>>>Boceto de la pagina princial
 <img src="img/pagina_principal.png" width="40%">
 
-  Boceto del perfil de usuario
+>>>Boceto del perfil de usuario
 <img src="img/perfil.png" width="40%">
 
-  Boceto del calendario
+>>>Boceto del calendario
 <img src="img/calendario.png" width="40%">
 
-  Boceto de la pagina de uno de los grupos
+>>>Boceto de la pagina de uno de los grupos
 <img src="img/grupos.png" width="40%">
 
-  Boceto del buscador
+>>>Boceto del buscador
 <img src="img/buscador.png" width="40%">
 
-  Boceto del buscador cuando no encuentra resultados
+>>Boceto del buscador cuando no encuentra resultados
 <img src="img/buscador_noresultado.png" width="40%">
 
 La opción de grupos te lleva a una lista de todos los grupos a los que perteneces, en este caso he realizado el boceto de un grupo concreto puesto que pienso que aporta más.
