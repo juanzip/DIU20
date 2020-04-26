@@ -25,10 +25,4 @@ Una vez finalizados los HI-FI digital wildframes pasan al sitemap que usando cap
 ----
 https://youtu.be/UjOUAcj1MXQ
 
->>> Estudio de Guidelines y Patrones IU a usar 
-
-![Método UX](../img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
