@@ -95,23 +95,23 @@ Por ultimo
 <img src="img/pagina_principal.png" width="40%">
 
 >>> Boceto del perfil de usuario
-![Labelling](img/perfil.png)
+<img src="img/perfil.png" width="40%">
 
 >>> Boceto del calendario
-![Labelling](img/calendario.png)
+<img src="img/calendario.png" width="40%">
 
 >>> Boceto de la pagina de uno de los grupos
-![Labelling](img/grupos.png)
+<img src="img/grupos.png" width="40%">
 
 >>> Boceto del buscador
-![Labelling](img/buscador.png)
+<img src="img/buscador.png" width="40%">
 
 >>> Boceto del buscador cuando no encuentra resultados
-![Labelling](img/buscador_noresultado.png)
+<img src="img/buscador_resultado.png" width="40%">
 
->>>La opción de grupos te lleva a una lista de todos los grupos a los que perteneces, en este caso he realizado el boceto de un grupo concreto puesto que pienso que aporta más.
+La opción de grupos te lleva a una lista de todos los grupos a los que perteneces, en este caso he realizado el boceto de un grupo concreto puesto que pienso que aporta más.
 
->>>En el buscador se puede dar el caso de no encontrar el grupo que se desea y en ese caso te da la opción de sugerir la creación de ese grupo. Lo propones pero no lo creas tú.
+En el buscador se puede dar el caso de no encontrar el grupo que se desea y en ese caso te da la opción de sugerir la creación de ese grupo. Lo propones pero no lo creas tú.
 
 
 ## Paso 3. Make (Prototyping) 
