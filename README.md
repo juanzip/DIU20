@@ -28,15 +28,17 @@ La idea es crear una aplicación que permita a las personas ponerse en contacto 
 
 
  ## Competitive Analysis
------
 
->>> La aplicación seleccionada es meetup, se utiliza para ofertar y apuntarse a actividades de ocio donde conocer gente y hacer cosas nuevas.
-Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que realiza basadas en tus gustos o localización y el gran número de categorías que tiene para buscar algo que te resulte interesante. Para cada evento te muestra una pequeña descripción, otros eventos parecidos, los miembros ya apuntados, los organizadores, algunas fotos y conversaciones al respecto. Otra característica importante es la posibilidad de crear tus propios grupos para que la gente se una a tus planes.
+El primer paso a dar es comparar las aplicaciones con un enfoque similar que ya estan en el mercado, en este caso tomamos como referencia "meetup" que es una de las más conocidas en este sector tan poco explorado. 
+Tras su estudio llegamos a la conclusión de que esta muy bien pensada pero añadiendole a esa base un sistema de fidelización, por ejemplo, podria mantener m,s a los usuarios, porque en este caso su unica motivación para continuar usando la app es buscar actividades.
 
-![Método UX](img/Persona.png) 1.b Persona
------
 
->>> Son dos personas jóvenes pero sus propósitos son muy diferentes, Antonio busca algo esporádico para un solo día mientras que Natalia quiere algo duradero para consolidar un grupo de amigos que compartan sus aficiones.
+ ## Persona
+
+Para ver las necesidades de la aplicación creamos a dos personas ficticias que se adaptan a dos circustancias en las que alguien entraría por primera vez para buscar alguna actividad.
+
+Antonio que por motivos de trabajo esta en otra ciudad que ya conoce con un par de dias libres y Natalia, la cual se ha mudado hace poco a estudiar en otra ciudad y no ha podido conocer a nadie que comparta sus inquietudes. 
+
 ![Persona Antonio](img/personaAntonio.png)
 ![Persona Natalia](img/personaNatalia.png)
 
@@ -46,14 +48,9 @@ Lo que me ha llevado a elegir esta página es la cantidad de recomendaciones que
 
 
 >>> Son dos experiencias que podrían ser muy comunes pero tienen motivaciones diferentes. Lo llamativo es que cada uno llega a la página con una recomendación totalmente diferente y consigue su propósito. 
+
 ![Journey Antonio](img/journeyAntonio.png)
 ![Journey Natalia](img/journeyNatalia.png)
-
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>> - Enlace al documento:  https://github.com/juanzip/DIU20/blob/master/Usability-review-template-final.pdf 
->>> - Valoración final (numérica): 78
->>> - Comentario sobre la valoración: En general la aplicación cumple su función sobradamente y no tiene ningún problema grave destacable quitando que cuando no tienes cuenta no hay un buscador disponible. 
 
 
 ## Paso 2. UX Design  
