@@ -68,18 +68,20 @@ Para empezar a profuncizar en las caracteristicas especificas de la aplicación 
 
 ![Task](img/sitemap_tabla.png)
 
-
+A continuación usamos el diagrama llamado sitemap para ordenar la arquitectura de la información, haciendo una jerarquia de todas las páginas que vamos a implementar en un futuro.
 
 ![SiteMap](img/sitemap_diagrama.png)
 
-![Método UX](img/labelling.png) 2.c Labelling 
-----
+ ## Labelling 
+
+Para dejar claro cual es el significado de todos los terminos usados en el sitemap se definen todos en la siguiente tabla:
 
 ![Labelling](img/labeling.png)
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
------
+ ## Wireframes
+
+Por ultimo 
 
 >>>Leyenda de los numeros en los bocetos:
 >>>-1: Grupos  
@@ -90,7 +92,7 @@ Para empezar a profuncizar en las caracteristicas especificas de la aplicación 
 >>>-6: Perfil  
 
 >>> Boceto de la pagina princial
-![Labelling](img/pagina_principal.png)
+![Labelling](img/pagina_principal.png | width=100)
 
 >>> Boceto del perfil de usuario
 ![Labelling](img/perfil.png)
