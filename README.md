@@ -26,9 +26,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 La idea es crear una aplicación que permita a las personas ponerse en contacto para realizar planes de ocio o cultura de forma conjunta, creando grupos con jerarquia y la posibilidad de compartirlo todo en todo momento.
 
-## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+ ## Competitive Analysis
 -----
 
 >>> La aplicación seleccionada es meetup, se utiliza para ofertar y apuntarse a actividades de ocio donde conocer gente y hacer cosas nuevas.
