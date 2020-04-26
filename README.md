@@ -51,11 +51,12 @@ Para ver el recorrido de estas personas hasta que consiguen su proposito creamos
 ![Journey Natalia](img/journeyNatalia.png)
 
 
-## Paso 2. UX Design  
+  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
+ ## Feedback Capture Grid
+
+Para ordenar las ideas hemos usado una tabla para organizarlas segun sean cosas positivas, críticas, preguntas o ideas. 
 
 ![Tabla feedback](img/grid_tabla.png)
 
