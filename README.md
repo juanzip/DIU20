@@ -22,7 +22,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
 
-# Proceso de Diseño 
+# Propuesta de aplicación para compartir ocio 
+
+La idea es crear una aplicación que permita a las personas ponerse en contacto para realizar planes de ocio o cultura de forma conjunta, creando grupos con jerarquia y la posibilidad de compartirlo todo en todo momento.
 
 ## Paso 1. UX Desk Research & Analisis 
 
