@@ -107,7 +107,7 @@ Por ultimo
 <img src="img/buscador.png" width="40%">
 
  Boceto del buscador cuando no encuentra resultados
-<img src="img/buscador_resultado.png" width="40%">
+<img src="img/buscador_noresultado.png" width="40%">
 
 La opción de grupos te lleva a una lista de todos los grupos a los que perteneces, en este caso he realizado el boceto de un grupo concreto puesto que pienso que aporta más.
 
