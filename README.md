@@ -64,10 +64,12 @@ En este caso la idea mas destacable es la que podemos llamar propuesta de valor,
 
  ## Tasks & Sitemap 
 
->>> Matriz de Tareas/Usuarios
+Para empezar a profuncizar en las caracteristicas especificas de la aplicación usamos un una matriz de tareas donde evaluamos la importancia de cada una en función del tipo de usuario que la vaya a realizar.
+
 ![Task](img/sitemap_tabla.png)
 
->>> Sitemap
+
+
 ![SiteMap](img/sitemap_diagrama.png)
 
 ![Método UX](img/labelling.png) 2.c Labelling 
