@@ -19,7 +19,8 @@ Una vez finalizados los HI-FI digital wildframes pasan al sitemap que usando cap
 
 3.b Propuesta	de	elementos	de	diseño	o	patrones	a	usar
 ----
-
+Como patrón para organizar la información creo que el que le vendría mejor a un proyecto como el mio es el estilo combinado para poder navegar, buscar y explorar actividades y grupos de forma cómoda.
+En cuanto al los colores elegiría tonos naranjas para representar la energía que se espera encontrar en estos grupos de actividades, usando una técnica monocromática para aportar minimalismo a la vez que una tipografía simple pero elegante.
 
 3.c Enlace a Video	UX	Case	Study
 ----
