@@ -43,11 +43,9 @@ Antonio que por motivos de trabajo esta en otra ciudad que ya conoce con un par 
 ![Persona Natalia](img/personaNatalia.png)
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+ ## User Journey Map
 
-
->>> Son dos experiencias que podrían ser muy comunes pero tienen motivaciones diferentes. Lo llamativo es que cada uno llega a la página con una recomendación totalmente diferente y consigue su propósito. 
+Para ver el recorrido de estas personas hasta que consiguen su proposito creamos sus respectivos journeys maps en los que vemos dos experiencias que podrían ser muy comunes pero tienen motivaciones diferentes. Lo llamativo es que cada uno llega a la página con una recomendación totalmente diferente y consigue su propósito. 
 
 ![Journey Antonio](img/journeyAntonio.png)
 ![Journey Natalia](img/journeyNatalia.png)
