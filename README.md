@@ -60,14 +60,10 @@ Para ordenar las ideas hemos usado una tabla para organizarlas segun sean cosas 
 
 ![Tabla feedback](img/grid_tabla.png)
 
+En este caso la idea mas destacable es la que podemos llamar propuesta de valor, que como ya hemos comentado anteriormente es fidelizar a los usuarios de la aplicación con un sistema de niveles y recompensas según las actividades que realicen, como apuntarse a actividades o ser administradores de un grupo.
 
-  
-  
-  
->>>La propuesta de valor que he pensado es para fidelizar a los usuarios de la aplicación con un sistema de niveles y recompensas según las actividades que realicen, como apuntarse a actividades o ser administradores de un grupo.
+ ## Tasks & Sitemap 
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
------
 >>> Matriz de Tareas/Usuarios
 ![Task](img/sitemap_tabla.png)
 
