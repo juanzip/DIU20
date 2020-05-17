@@ -24,5 +24,6 @@ Natalia sigue con su busqueda de amigos en Barcelona y le aparece publicidad de 
 Antes de realizar su viaje a Alemania piensa que sería más interesante si no va a un hotel convencional y buscando por internet encuentra la aplicación de Free Sofa. Le atrae la idea de ir a casa de otra persona para que le enseñe cosas que desconoce del lugar y no aburrirse. Al registrarse y buscar un poco le atrae toda la interacción que puede tener con las personas que ofertan sus casas y toda la información que hay sobre ellos. Tanta confianza le inclina a reservar con ellos.
 
 #### Antonio en [Nature Sport](https://github.com/Josalmer/DIU3_Workers)
+Una vez acabado el congreso Antonio no tiene nada que hacer y una persona local le recomienda Nature Sport. Al probarla descubre lo simple y fácil de comprender que es, aplica los filtros que desea sin complicaciones para hacer un poco de senderismo al día siguiente y encuentra la actividad que deseaba. Se apunta y recomienda la aplicación a sus amigos de España porque le parece indispensable.
 
 ## Conclusiones
