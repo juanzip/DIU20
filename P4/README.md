@@ -2,7 +2,7 @@
 
 ## Caso 1
 El primer caso es [HomeShow](https://github.com/miguelroldanc/DIU20), que se trata de una aplicación para compartir ocio centrada en los conciertos y en la música.
- - Valoración completa: ./DIU3.UserLAB_review.xls
+ - Valoración completa: (./DIU3.UserLAB_review.xls)
  - Nota: 62
  - Comentarios: Cosas
 ## Caso 2
