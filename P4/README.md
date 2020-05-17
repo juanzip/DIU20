@@ -1,7 +1,7 @@
 # DIU - Práctica 4, Entregables
 
 ## Caso 1
-El primer caso es HomeShow, que se trata de una aplicación para compartir ocio centrada en los conciertos y en la música.
+El primer caso es [HomeShow](https://github.com/miguelroldanc/DIU20), que se trata de una aplicación para compartir ocio centrada en los conciertos y en la música.
  - Valoración: 62
  - Comentarios: Cosas
 ## Caso 2
