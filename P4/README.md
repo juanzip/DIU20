@@ -27,3 +27,9 @@ Antes de realizar su viaje a Alemania piensa que sería más interesante si no v
 Una vez acabado el congreso Antonio no tiene nada que hacer y una persona local le recomienda Nature Sport. Al probarla descubre lo simple y fácil de comprender que es, aplica los filtros que desea sin complicaciones para hacer un poco de senderismo al día siguiente y encuentra la actividad que deseaba. Se apunta y recomienda la aplicación a sus amigos de España porque le parece indispensable.
 
 ## Conclusiones
+Mi ranking personal de las aplicaciones estudiadas coincide con el resultado numérico obtenido en sus análisis individuales:
+1. [Nature Sport](https://github.com/Josalmer/DIU3_Workers)
+2. [Free Sofa](https://github.com/migueg/DIU20)
+3. [HomeShow](https://github.com/miguelroldanc/DIU20)
+
+Como conclusión quiero destacar la importancia que tiene una buena introducción a la hora de dar a conocer un proyecto, sin ella no se entiende la idea correctamente. También he podido comprobar la diferencia de un trabajo realizado por dos personas, como es el caso de Nature Sport, que da un resultado mucho más pulido en todos los sentidos. Y por último he podido ver como es la realización correcta de un User-Task-Flow gracias al grupo DIU3.workers ya que los demás hicimos una matriz de tareas.
