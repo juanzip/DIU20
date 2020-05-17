@@ -17,5 +17,12 @@ Por último tenemos  a [Nature Sport](https://github.com/Josalmer/DIU3_Workers).
  - Comentarios: Es el trabajo más completo que he revisado, todos los apartados cumplen con lo pedido salvo en los journey maps donde se les olvidó colocar uno en el proyecto principal. Cabe destacar el apartado visual, ya que han aportado iconos y colores en puntos clave dando como resultado una presentación muy por encima de los demás. Los bocetos lo-fi también están a otro nivel en cuanto a presentación.
 
 ## User testing
+#### Natalia en [HomeShow](https://github.com/miguelroldanc/DIU20)
+Natalia sigue con su busqueda de amigos en Barcelona y le aparece publicidad de HomeShow en Instagram por lo que decide descargarla para ver que puede ofrecerle. Explora un poco por el calendario y los eventos pero se da cuenta que no es lo que busca por lo que la desinstala a los 10 minutos.
+
+#### Antonio en [Free Sofa](https://github.com/migueg/DIU20)
+Antes de realizar su viaje a Alemania piensa que sería más interesante si no va a un hotel convencional y buscando por internet encuentra la aplicación de Free Sofa. Le atrae la idea de ir a casa de otra persona para que le enseñe cosas que desconoce del lugar y no aburrirse. Al registrarse y buscar un poco le atrae toda la interacción que puede tener con las personas que ofertan sus casas y toda la información que hay sobre ellos. Tanta confianza le inclina a reservar con ellos.
+
+#### Antonio en [Nature Sport](https://github.com/Josalmer/DIU3_Workers)
 
 ## Conclusiones
