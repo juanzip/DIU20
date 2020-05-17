@@ -14,7 +14,7 @@ El segundo caso es [Free Sofa](https://github.com/migueg/DIU20), en este caso es
 Por último tenemos  a [Nature Sport](https://github.com/Josalmer/DIU3_Workers). Es una aplicación de compartir ocio nuevamente pero en este caso enfocada al deporte al aire libre.
  - Valoración completa: [Aquí](./DIU3.workers_review.xls)
  - Nota: 85
- - Comentarios: Cosas
+ - Comentarios: Es el trabajo más completo que he revisado, todos los apartados cumplen con lo pedido salvo en los journey maps donde se les olvidó colocar uno en el proyecto principal. Cabe destacar el apartado visual, ya que han aportado iconos y colores en puntos clave dando como resultado una presentación muy por encima de los demás. Los bocetos lo-fi también están a otro nivel en cuanto a presentación.
 
 ## User testing
 
